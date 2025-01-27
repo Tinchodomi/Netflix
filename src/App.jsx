@@ -1,5 +1,4 @@
 import { Route, Routes, BrowserRouter } from "react-router-dom";
-import "./App.css";
 import Nesflic from "./componentes/Fetch/Nesflic";
 
 
