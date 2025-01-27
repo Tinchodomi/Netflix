@@ -1,0 +1,63 @@
+body{
+background-color: rgba(0, 0, 0, 0.908);
+
+}
+
+
+.div_container {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    
+
+}
+
+.h1{
+
+    color: red;
+}
+
+.ul{
+
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    flex-wrap: wrap;
+    color:white;
+    text-align: center;
+    
+}
+
+.li{
+   
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 20%;
+    list-style: none;
+    cursor: pointer;
+   
+}
+
+.form{
+
+    margin-left: 50px;
+    border-radius: 10px;
+    font-size: 50px;
+}
+
+.btn{
+
+
+
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    color: rgba(0, 0, 0, 0.811);
+
+}
+
